@@ -1,0 +1,16 @@
+##After_EDIT
+
+# ==== "HR System" ====
+
+## Build DataBase
+2- Build UI 
+3- Build Server
+4- Admins > Access
+======================
+1- (Database)  ?? Done
+     - DBName : HRSystem
+     - Tables 
+         -Employees
+         -Department
+         -Admins
+2- Build UI          
